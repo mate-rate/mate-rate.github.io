@@ -1,0 +1,25 @@
+@import url(fontawesome-all.min.css);
+@import "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400";
+
+.usps {
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 80px;
+}
+
+.usps img {
+  width: 400px;
+}
+
+.video {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.product img {
+  width: 300px;
+  border-radius: 100em;
+}
